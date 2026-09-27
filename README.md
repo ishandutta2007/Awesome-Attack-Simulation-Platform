@@ -54,7 +54,7 @@ This repository tracks top-tier **SaaS enterprise platforms** and **open-source 
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated collection of active open-source projects for self-hosted Breach and Attack Simulation, adversary emulation, command-and-control (C2), and detection engineering labs. **Sorted by GitHub star count (descending):**
+Below is a curated collection of active open-source projects for self-hosted Breach and Attack Simulation, adversary emulation, command-and-control (C2), and detection engineering labs. **Sorted by GitHub Stars_Count (descending):**
 
 1. ⚛️ **[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)** <a href="https://github.com/redcanaryco/atomic-red-team/stargazers"><img src="https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social" alt="Atomic Red Team Stars"/></a>  
    The industry-standard library of simple, testable YAML files mapped directly to MITRE ATT&CK techniques. Designed for rapid execution and blue team detection validation across Windows, Linux, and macOS environments.
@@ -112,7 +112,7 @@ Contributions are warmly welcomed! Help keep this cybersecurity repository compl
 
 1. **Fork** the repository.
 2. Add or edit entries in `README.md` maintaining the existing tabular/list format.
-3. Ensure added projects include: Name, Link, GitHub Star Badge (for open source), 1–2 sentence factual description, and category.
+3. Ensure added projects include: Name, Link, GitHub Stars_Badge (for open source), 1–2 sentence factual description, and category.
 4. Submit a **Pull Request** with a clear explanation of your additions.
 
 Please review our curated resources at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
@@ -141,3 +141,12 @@ Thank you for exploring the **Awesome Attack Simulation Platform** ecosystem! �
 - This list is **community-curated** for educational, defensive security research, and security validation purposes.
 - All attack simulation tools must be operated **exclusively** within authorized environments with proper legal authorization and explicit written scope.
 - Self-hosted open-source software requires infrastructure security hardening and ongoing maintenance.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Attack-Simulation-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Attack-Simulation-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Attack-Simulation-Platform_growth.svg">
+  </picture>
+</a>
