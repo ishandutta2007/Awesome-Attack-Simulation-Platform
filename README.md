@@ -42,65 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+**Market Size & Sector Overview:** The global Breach and Attack Simulation (BAS) & Continuous Security Validation market is estimated at **$550M–$1.0B in 2025/2026** (projected to reach **$3.6B–$16B by 2033** at a CAGR of ~22–40%). The sector is **moderately fragmented**, featuring specialized category leaders alongside emerging AI-native platforms evolving towards broader exposure management consolidation.
 
-
-- **[SafeBreach](https://www.safebreach.com/)**  
-
-  Continuous security validation platform with 20,000+ attack methods simulating known threat actor behaviors across the kill chain.
-
-
-
-- **[AttackIQ](https://www.attackiq.com/)**  
-
-  Breach and attack simulation platform built on MITRE ATT&CK, enabling continuous validation of security controls with automated attack scenarios.
-
-
-
-- **[Cymulate](https://cymulate.com/)**  
-
-  Extended security posture management platform with BAS, automated red teaming, and attack surface validation across email, web, and endpoint vectors.
-
-
-
-- **[Pentera](https://www.pentera.io/)**  
-
-  Automated penetration testing platform simulating full attack chains from external and internal perspectives with actionable remediation.
-
-
-
-- **[Picus Security](https://www.picussecurity.com/)**  
-
-  Security validation platform combining BAS with threat intelligence, measuring detection and prevention effectiveness across security stack.
-
-
-
-- **[XM Cyber](https://www.xmcyber.com/)**  
-
-  Hybrid cloud exposure management platform simulating attack paths to critical assets, identifying and prioritizing remediation.
-
-
-
-- **[Horizon3.ai](https://horizon3.ai/)**  
-
-  Autonomous penetration testing platform (NodeZero) discovering exploitable vulnerabilities and validating attack paths with proof-of-exploit.
-
-
-
-- **[Scythe](https://scythe.io/)**  
-
-  Adversary emulation platform with threat intelligence-driven attack scenarios, purple team collaboration, and detection validation.
-
-
-
-- **[Red Canary Atomic Red Team](https://redcanary.com/atomic-red-team/)**  
-
-  Library of simple, testable ATT&CK-mapped tests for validating detection and response capabilities, with commercial management via Red Canary.
-
-
-
-- **[ThreatGen](https://www.threatgen.com/)**  
-
-  Cyber range and attack simulation platform with gamified red team/blue team exercises for training and validation.
+| Platform | Description | Company Size (Valuation / Revenue) | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Horizon3.ai](https://horizon3.ai/)** | Autonomous penetration testing platform (NodeZero) discovering exploitable vulnerabilities and validating attack paths with proof-of-exploit. | >$2.0B Valuation ($250M Series E, 120% YoY ARR growth) | ~$99/target for ad-hoc NodeZero pentest runs | 30-day Free Trial (up to 1 free internal/external node run upon credential verification) |
+| **[Pentera](https://www.pentera.io/)** | Automated penetration testing platform simulating full attack chains from external and internal perspectives with actionable remediation. | >$1.0B Valuation ($117M ARR, Series D) | ~$35,000/year base annual subscription | No free trial (1-on-1 personalized live environment demo available) |
+| **[XM Cyber](https://www.xmcyber.com/)** | Hybrid cloud exposure management platform simulating attack paths to critical assets, identifying and prioritizing remediation. | $700M Acquisition Value ($10M–$20M ARR) | ~$24/unit/year (£18/unit/year) enterprise tier | Custom-scoped 14-day Free Trial available via sales demo consultation |
+| **[Cymulate](https://cymulate.com/)** | Extended security posture management platform with BAS, automated red teaming, and attack surface validation across email, web, and endpoint vectors. | $141M Total Funding (~$30M+ ARR) | ~$7,000/year starting modular tier | 14-day Free Trial with access to core validation modules |
+| **[Red Canary](https://redcanary.com/atomic-red-team/)** | Managed continuous security validation platform with commercial orchestration built around Atomic Red Team. | $130M Total Funding ($100M+ ARR) | ~$120/endpoint/year starting managed subscription tier | No free trial for hosted SaaS platform (free open-source YAML library available) |
+| **[SafeBreach](https://www.safebreach.com/)** | Continuous security validation platform with 20,000+ attack methods simulating known threat actor behaviors across the kill chain. | $106M Total Funding (~$21M ARR) | ~$25,000/year starting subscription tier (4 customizable tiers) | No free trial (guided proof-of-concept / sandbox demo on request) |
+| **[Picus Security](https://www.picussecurity.com/)** | Security validation platform combining BAS with threat intelligence, measuring detection and prevention effectiveness across security stack. | $77M Total Funding (~$15M–$20M ARR) | ~$10,000/year starting subscription | 14-day Free Trial for Security Validation Platform |
+| **[AttackIQ](https://www.attackiq.com/)** | Breach and attack simulation platform built on MITRE ATT&CK, enabling continuous validation of security controls with automated attack scenarios. | $73M Total Funding (~$15M ARR) | ~$15,000/year starting *Flex* testing package tier | AttackIQ Flex free tier (free access to basic ATT&CK testing packages & research) |
+| **[Scythe](https://scythe.io/)** | Adversary emulation platform with threat intelligence-driven attack scenarios, purple team collaboration, and detection validation. | ~$15M Funding (~$5M–$10M ARR) | ~$15,000/year practitioner starting license | No free trial (guided interactive sandbox demo on request) |
+| **[ThreatGen](https://www.threatgen.com/)** | Cyber range and attack simulation platform with gamified red team/blue team exercises for training and validation. | Early-Stage / Bootstrapped (~$1M–$3M ARR) | $75/year for Individual Pro; $1,500/year for Business tier | No free trial (free interactive video demo and sample scenarios on request) |
 
 
 
